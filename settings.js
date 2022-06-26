@@ -21,13 +21,13 @@ global.APIKeys = {
 //customize settings\\
 
 global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+My Creator is INDUWARA DILSHAN😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+global.owner = ['+94717303100'] //Owner number in aive msg
+global.premium = ['+380717303100'] //Owner Number info
+global.ownernomer = '+94717303100' //Owner Number <<<
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
+global.ownername = '😌𝙄𝙉𝘿𝙐𝙒𝘼𝙍𝘼 𝘿𝙄𝙇𝙎𝙃𝘼𝙉' //Owner Name
 global.botname = ' ☬RED༒DRAGON' //Bot Name
 
 global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
@@ -35,8 +35,8 @@ global.btnurl = '🙂🔥දැන් සැපද?😑' //Change Your Button's 
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.packname = '𝙄𝙉𝘿𝙐𝙒𝘼𝙍𝘼 𝘿𝙄𝙇𝙎𝙃𝘼𝙉' //Bot Pacage Name
+global.author = '😎𝙄𝙉𝘿𝙐𝙒𝘼𝙍𝘼 𝘿𝙄𝙇𝙎𝙃𝘼𝙉❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
@@ -47,9 +47,9 @@ global.footer = '©_Kumuthu.' // DO NOT CHANGE!
 
 global.mess = { // Error Mesages
     success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
-    owner: 'Only Owner can use this!😉',
+    admin: 'http://wa.me/+9⃣4⃣7⃣1⃣7⃣3⃣0⃣3⃣1⃣0⃣0⃣',
+    botAdmin: 'http://wa.me/+9⃣4⃣7⃣1⃣7⃣3⃣0⃣3⃣1⃣0⃣0⃣',
+    owner: 'http://wa.me/+9⃣4⃣7⃣1⃣7⃣3⃣0⃣3⃣1⃣0⃣0⃣',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
